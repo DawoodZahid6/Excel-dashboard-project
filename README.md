@@ -3,11 +3,18 @@ Project Spotlight: Data Cleaning, Data Processing, and Dashboard Creation in Exc
 
 
 Introduction: In my latest project, I tackled the exciting world of data,From messy spreadsheets to insightful dashboards, I transformed raw information into actionable insights
+
+
 Steps Covered:
+
+
 Data Exploration: We delved into the data, seeking patterns and insights.
 Data Cleaning: We scrubbed away inconsistencies, ensuring pristine data quality.
 Data Processing: Pivot tables, formulas, and conditional formatting—our Excel toolkit!
 Data Visualization: Our dashboard came alive with bar charts, line graphs, and pie charts
+
+
+
 Insights:
 Women Power: Women accounted for a whopping 65% of purchases.
 Top States: Maharashtra, Karnataka, and Uttar Pradesh led the way, contributing 35% to sales.
