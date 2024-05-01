@@ -1,4 +1,7 @@
 Project Spotlight: Data Cleaning, Data Processing, and Dashboard Creation in Excel.
+
+
+
 Introduction: In my latest project, I tackled the exciting world of data,From messy spreadsheets to insightful dashboards, I transformed raw information into actionable insights
 Steps Covered:
 Data Exploration: We delved into the data, seeking patterns and insights.
